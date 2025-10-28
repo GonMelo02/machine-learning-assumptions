@@ -65,5 +65,3 @@ Their performance was compared through:
 - `scipy`
 - `Jupyter Notebook`
 
-## Author
-Developed by a MSc student in Bioinformatics (University of Porto) as part of coursework in Machine Learning.
